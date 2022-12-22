@@ -1,3 +1,4 @@
-name = "api"
+name = "nba-api"
 main = "src/index.ts"
-compatibility_date = "2022-12-21"
+compatibility_date = "2022-12-20"
+node_compat = true
